@@ -23,6 +23,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 
 }
 
+
 ?>
 
 <!DOCTYPE HTML>
